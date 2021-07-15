@@ -10,6 +10,7 @@
 header{
     background-color: blue;
     margin-bottom: 100px;
+    width: 100%;
 }
 .banner{
     display: grid;
