@@ -130,6 +130,9 @@ header{
     .banner, .players{
         grid-template-columns: 1fr;
     }
+    header{
+        width: 100%;
+    }
     .container{
         width: 100%;
     }
