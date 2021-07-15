@@ -126,7 +126,7 @@ header{
 
 
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:350px) {
     .banner, .players{
         grid-template-columns: 1fr;
     }
